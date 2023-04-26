@@ -1,2 +1,2 @@
-# Nithya-Project1
-Project1
+# Nithya-Resume
+Resume
